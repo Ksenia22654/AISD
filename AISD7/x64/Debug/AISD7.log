@@ -1,0 +1,3 @@
+﻿  AISD7.cpp
+D:\Labs\AISD7\AISD7.cpp(22,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  AISD7.vcxproj -> D:\Labs\AISD7\x64\Debug\AISD7.exe

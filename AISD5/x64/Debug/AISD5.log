@@ -1,0 +1,4 @@
+﻿  AISD5.cpp
+D:\Labs\AISD5\AISD5.cpp(80,18): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Labs\AISD5\AISD5.cpp(81,14): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  AISD5.vcxproj -> D:\Labs\AISD5\x64\Debug\AISD5.exe

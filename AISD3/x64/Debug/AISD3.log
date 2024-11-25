@@ -1,0 +1,4 @@
+﻿  AISD3.cpp
+D:\Labs\AISD3\AISD3.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Labs\AISD3\AISD3.cpp(10,9): warning C4101: start: неиспользованная локальная переменная
+  AISD3.vcxproj -> D:\Labs\AISD3\x64\Debug\AISD3.exe
