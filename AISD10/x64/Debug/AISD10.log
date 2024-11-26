@@ -1,0 +1,12 @@
+﻿  AISD10.cpp
+D:\Labs\AISD10\AISD10.cpp(54,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Labs\AISD10\AISD10.cpp(111,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Labs\AISD10\AISD10.cpp(145,16): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Labs\AISD10\AISD10.cpp(160,18): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Labs\AISD10\AISD10.cpp(168,33): warning C4244: +=: преобразование "_Ty" в "size_t", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+D:\Labs\AISD10\AISD10.cpp(170,18): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  AISD10.vcxproj -> D:\Labs\AISD10\x64\Debug\AISD10.exe
